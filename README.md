@@ -1,2 +1,2 @@
 # connectfour
-This is a game between two people
+This is a multiplayer game between two people 
